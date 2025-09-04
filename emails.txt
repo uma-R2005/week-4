@@ -1,0 +1,5 @@
+test@example.com
+invalid-email
+hello.world@gmail.com
+abc@xyz
+student123@university.edu
