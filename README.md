@@ -60,5 +60,3 @@ Each project demonstrates practical applications of regex in real-world scenario
   - Extracts candidate’s Name, Email, Phone Number, and Skills.
   - Demonstrates regex-based parsing for structured text.
 
-https://github.com/uma-R2005/week-4.git
-   cd week-4
